@@ -4,6 +4,12 @@ Repository for demonstration of nodeJS knowledge
 
 Node js server with help of express
 
+npm i 
+npm run build
+npm start
+
+
+
 Objective: request articles from https://www.telegraaf.nl/ process data and save to a db
 
 Reason: To demonstrate the volnurability of paid articles as the contents are available on the source code of the page in the script selector
@@ -16,3 +22,4 @@ What is done:
 
 Problems: Cloudfare is blocking all attempts so far
 Possible Solution: try using puppeteer/ residential proxy
+
